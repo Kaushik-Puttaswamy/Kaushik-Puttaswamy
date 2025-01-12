@@ -3,7 +3,7 @@ Hi there! I'm Kaushik Puttaswamy, a Data Analyst with over 2.5 years of experien
 
 With a solid foundation in SQL, Python, and data visualization tools like Power BI and Tableau, I have expertise in building real-time data pipelines and developing predictive models to enhance business strategies. My experience spans across ETL workflows, data mining, predictive analytics, and business intelligence.
 
-# 👩‍💻 Current Focus:
+# 👨‍💻 Current Focus:
 I have completed my Master's in Data Science from IU International University of Applied Sciences. My Master's Thesis focused on Explainable AI (XAI) and BERT models to improve transparency in medical transcription systems, showcasing my ability to work with cutting-edge AI techniques.
 
 I’m always looking for exciting new challenges in data engineering, machine learning, and cloud technologies such as AWS, Azure and GCP. Let’s connect and collaborate on innovative, data-driven projects!
