@@ -51,12 +51,12 @@ I’m passionate about solving complex data challenges, optimizing business proc
 
 # 🌐 Let’s Connect!
 
-📧 **Email:** kaushik.puttaswamy123@gmail.com  
+📧 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaushik.puttaswamy123@gmail.com) kaushik.puttaswamy123@gmail.com  
 
 🔗 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Kaushik-Puttaswamy)  
 
 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/)  
 
-📜 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-%230000ff.svg?style=flat&logo=firefox&logoColor=white)](https://www.datascienceportfol.io/kaushikputtaswamy)  
+📜 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-%230000ff.svg?style=flat&logo=firefox&logoColor=white)](https://www.datascienceportfol.io/kaushikputtaswamy)   
 
 🚀 Always learning, building, and solving data-driven challenges! 🚀
