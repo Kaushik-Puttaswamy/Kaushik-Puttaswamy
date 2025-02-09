@@ -43,8 +43,6 @@ I’m passionate about **solving complex data challenges, optimizing business pr
 
 📌 **Food Delivery Time Prediction** (XGBoost, Streamlit, OpenCage API)
 
-📌 **Customer Segmentation for Personalization** (Clustering, Python)
-
 📌 **Train Ticket Booking Data Pipeline** (Pub/Sub, Dataflow, Looker)
 
 📌 **Amazon Sales Data Analysis Dashboard** (Power BI, SQL)
