@@ -28,9 +28,9 @@ I’m passionate about solving complex data challenges, optimizing business proc
 
 🔹 Cloud Technologies:
 	
- 	•	AWS: Redshift, Glue, Lambda, Athena, S3, RDS, Kinesis
+ 	• AWS: Redshift, Glue, Lambda, Athena, S3, RDS, Kinesis
 	
- 	•	GCP: BigQuery, Dataflow, Dataproc, Pub/Sub
+ 	• GCP: BigQuery, Dataflow, Dataproc, Pub/Sub
 
 🔹 Machine Learning: Scikit-learn, XGBoost, NLP, Predictive Modeling
 
