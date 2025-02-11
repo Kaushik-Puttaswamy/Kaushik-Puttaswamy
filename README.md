@@ -39,6 +39,8 @@ I’m passionate about **solving complex data challenges, optimizing business pr
 
 📌 **Real-Time E-Commerce Data Pipeline** (Kafka, Spark, Power BI)
 
+📌 **Crypto Data Processing and Analysis Pipeline** (AWS Glue, Lambda, Kinesis, DynamoDB, Athena, QuickSight, Apache Hudi)
+
 📌 **ETL Pipeline for Walmart Sales Data** (BigQuery, Airflow)
 
 📌 **Food Delivery Time Prediction** (XGBoost, Streamlit, OpenCage API)
