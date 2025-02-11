@@ -58,4 +58,4 @@ I’m passionate about **solving complex data challenges, optimizing business pr
 
 📜 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-%230000ff.svg?style=flat&logo=firefox&logoColor=white)](https://www.datascienceportfol.io/kaushikputtaswamy)   
 
-🚀 Always learning, building, and solving data-driven challenges! 🚀
+🚀 _Always learning, building, and solving data-driven challenges!_ 🚀
